@@ -1,0 +1,2 @@
+# Sentinel-RED
+This project is about presenting the problems that can occur while communicating to Mars, as well as presenting the way we communicate to Mars and solutions that NASA has presented for problems like when the Sun is between Earth and Mars. We will also present some NASA projects to speed up the arrival of information, this is through laser technology, which is better than radio frequencies. All of this will be presented on a map where the information can be viewed separately.
